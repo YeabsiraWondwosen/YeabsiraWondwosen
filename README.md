@@ -1,34 +1,97 @@
-# 👋 Hey there! I'm **Yeabsira Wondwosen**
+<img width="1792" height="576" alt="image" src="https://github.com/user-attachments/assets/f5b375f8-69d3-414b-971f-cd0693e09663" />
 
-🎓 Second-year Information Systems student at **Debre Berhan University**  
-📜 Diploma holder in **Accounting** with a growing passion for tech  
-💡 Blending analytical thinking with technical skills to build impactful solutions
+# 👋 Hi, I'm <span style="color:#1E90FF;">Yonas Getaw</span>
+## **Full-Stack Software Engineer | Solutions Architect | Nuxt 3 & Golang Specialist**
 
+> **Building robust, scalable, and real-world systems.** Focused on delivering high-performance full-stack solutions, currently specializing in **Nuxt 3** for dynamic frontend experiences and **Golang** for efficient, concurrent backend services.
+?"|
+---
 
+## 💻 GitHub Activity & Performance
 
-## 🚀 What I'm Building & Exploring
-- 🌐 Crafting responsive **front-end interfaces** with clean, modern designs  
-- 💻 Writing code in **Java**, **C++**, **Python**, and **JavaScript**  
-- 🧠 Applying both **technical logic** and **financial thinking** from my accounting background  
-- 🗂 Designing scalable **databases** and modeling systems with **UML**  
-- 📊 Planning smart with **Gantt charts**, **dbdiagram.io**, and **Mermaid**  
-- 🔧 Collaborating and tracking projects using **Git** and **GitHub**
+### 🚀 Leveling up with **Golang**
+*Building full-stack projects like it's a boss battle.*
 
-
-
-## 🎯 My Career Goal  
-To become a **skilled software developer** and **system analyst**, combining my knowledge of systems and finance to build smart, user-focused digital solutions.
-
-
-
-## 🛠 Tech Stack & Tools
-- **Languages**: Java, C++, Python, JavaScript, HTML, CSS  
-- **Frameworks/Tools**: Git, XAMPP, Figma, dbdiagram.io, Mermaid, GanttPro  
-- **Concepts**: Object-Oriented Programming, Data Structures, Database Design, UML, System Modeling
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YonasGetaw&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="YonasGetaw GitHub Streak" />
+</p>
 
 ---
 
-> ⚡ *From accounting sheets to code sheets — I believe in lifelong learning and building with purpose.*
+### ⚙️ Inventory / Tech Stack (In Focus)
 
-Thanks for visiting! 🙌  
-Let’s connect and build something amazing.
+<p align="center">
+    <img src="https://img.shields.io/badge/Nuxt%203-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt 3 Badge"/>
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go Badge"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL Badge"/>
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge"/>
+</p>
+
+---
+
+### 📊 Stats Board
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=YonasGetaw&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="YonasGetaw's GitHub Stats" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonasGetaw&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="YonasGetaw's Most Used Languages" />
+</p>
+
+## 🛠️ Core Skills & Expertise
+<div align="center">
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Go_Logo_Blue.svg" title="Golang" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" width="60" style="margin:5px;"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" title="Vue.js" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" title="Nuxt 3" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" width="60" style="margin:5px;"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="60" style="margin:5px;"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" width="60" style="margin:5px;"/>
+
+<br/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="60" style="margin:5px;"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="60" style="margin:5px;"/>
+
+</div>
+
+##  📬 Connect with Me
+
+<p align="center">
+    <a href="mailto:yonasgetaw5444@gmail.com" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/YonasGetaw" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://t.me/@YONAA54" target="_blank" style="text-decoration:none; margin: 0 10px;">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+</p>
+
